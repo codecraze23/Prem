@@ -91,7 +91,7 @@ export default function SecretCode({ onUnlock }) {
                 >
                   Enter the code to unlock my heart💕
                 </motion.p>
-                <p className="text-white/50 text-sm"><span className="text-black/80">💡</span>Hint: Birthday Date "Rucha"</p>
+                <p className="text-white/50 text-sm"><span className="text-black/80">💡</span>Hint :-"i love You" No codeWord "143"</p>
               </div>
             </div>
 
